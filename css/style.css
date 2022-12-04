@@ -114,7 +114,8 @@ em {
     width: 80%;
   }
   em {
-    font-size: 2rem;
+    font-size: 1rem;
+    text-align: center;
   }
   .logo-img {
     width: 100%;
@@ -127,6 +128,6 @@ em {
     margin-bottom: 10px;
   }
   .container-fluid p {
-    font-size: 0.8rem;
+    font-size: 0.6rem;
   }
 }
