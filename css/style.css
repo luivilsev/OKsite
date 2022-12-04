@@ -95,17 +95,17 @@ em {
     text-align: center;
   }
   .top-cloud {
-    top: 100px;
+    top: 10%;
     right: 10%;
   }
   .bottom-cloud {
-    top: 700px;
+    top: 10%;
     left: 10%;
   }
   .saitama-img {
     width: 30%;
-    top: 100px;
-    left: 10%;
+    top: 15%;
+    left: 40%;
   }
   .lui-img {
     width: 80%;
