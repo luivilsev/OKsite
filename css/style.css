@@ -122,10 +122,13 @@ em {
     margin: auto;
   }
   .logo {
-    text-align: left;
+    margin: 0;
   }
   .btn {
     margin-bottom: 10px;
+  }
+  .container-fluid {
+    margin: 0;
   }
   .container-fluid p {
     font-size: 0.6rem;
