@@ -56,6 +56,13 @@ em {
   width: 15%;
   margin: 20px;
 }
+.love {
+  text-align: center;
+  padding: 10% 10%;
+}
+.love a:hover{
+  color: #5D053B;
+}
 .container-fluid {
   padding: 7% 15%;
 }
@@ -112,6 +119,9 @@ em {
   }
   .love-img {
     width: 80%;
+  }
+  .love em {
+    font-size: 2rem;
   }
   em {
     font-size: 1rem;
