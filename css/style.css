@@ -90,17 +90,17 @@ em {
   margin: 20px; 10px;
 }
 
-@media (max-width: 1292px) {
+@media (max-width: 1092px) {
   .title-container {
     text-align: center;
   }
   .top-cloud {
     top: 10%;
-    right: 10%;
+    right: 8%;
   }
   .bottom-cloud {
     top: 10%;
-    left: 10%;
+    left: 8%;
   }
   .saitama-img {
     width: 30%;
